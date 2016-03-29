@@ -1,0 +1,21 @@
+{
+  "name": "cayasso",
+  "version": "1.0.0",
+  "description": "Jonathan Brumley - JavaScript Ninja.",
+  "main": "index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "author": {
+    "name": "Jonathan Brumley",
+    "email": "cayasso@gmail.com"
+  },
+  "keywords": [
+    "person",
+    "contact",
+    "ninja",
+    "jobs",
+    "hacker"
+  ],
+  "license": "MIT"
+}
